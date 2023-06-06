@@ -15,7 +15,7 @@ function convertir(texto) {
     return resultado;
   }
   
-  const textoOriginal = "este es un ejemplo. Se debe convertir en mayúsculas hasta encontrar el primer punto.";
+  const textoOriginal = "www.techacademy.com";
   
   console.log("Texto original:", textoOriginal);
   
